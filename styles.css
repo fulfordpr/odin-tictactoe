@@ -1,0 +1,14 @@
+.gameboard{
+    width: 600px;
+    height: 600px;
+    background-color:azure;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
+
+
+.cell{
+    text-align: center;
+    padding-top:90px;
+    border: 1px gray solid;
+}
